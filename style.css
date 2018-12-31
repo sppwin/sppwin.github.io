@@ -22,6 +22,6 @@ ul {
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 li{
-  font-family: Bookman, URW Bookman L, serif;
+  font-family:serif;
   text-decoration: none;
 }
