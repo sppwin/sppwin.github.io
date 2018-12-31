@@ -11,6 +11,9 @@ h1{
   color: white;
 }
 ul {
+  font:Georgia, serif;
+  text-decoration: none;
+  color:yellow;
   list-style-type: none;
   margin: 0;
   padding: 0;
