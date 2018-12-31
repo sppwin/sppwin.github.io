@@ -21,7 +21,7 @@ ul{
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
-li{
-  font-family:serif;
+a{
   text-decoration: none;
+  font-family: cursive;
 }
