@@ -11,7 +11,7 @@ h1{
   color: white;
 }
 ul {
-  font:Georgia, serif;
+  font-family: Georgia, serif;
   text-decoration: none;
   color:yellow;
   list-style-type: none;
