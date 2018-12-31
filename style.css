@@ -11,8 +11,6 @@ h1{
   color: white;
 }
 ul {
-  font-family: Bookman, URW Bookman L, serif;
-  text-decoration: none;
   color:yellow;
   list-style-type: none;
   margin: 0;
@@ -22,4 +20,8 @@ ul {
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+li{
+  font-family: Bookman, URW Bookman L, serif;
+  text-decoration: none;
 }
