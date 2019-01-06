@@ -8,5 +8,6 @@ body {
   margin-top: 50px;
 }
 #gallery img {
-    width: 33%;
+  display: block;
+  width: 100%;
 }
