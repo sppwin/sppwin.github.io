@@ -18,4 +18,5 @@ div#sidebar {
   width: 80px;
   color: pink;
   text-decoration: none;
+  display: block;
 }
