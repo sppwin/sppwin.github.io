@@ -17,8 +17,13 @@ body {
   position: relative;
   width: 100px;
   float:left;
+  background-color: pink;
 
 }
 .link{
   text-decoration: none;
+  color:yellow;
+}
+a.link:hover{
+  color:blue;
 }
