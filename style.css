@@ -21,9 +21,13 @@ body {
 
 }
 .link{
+  font-family: 'Staatliches', cursive;
   text-decoration: none;
   color:yellow;
 }
 a.link:hover{
   color:blue;
+}
+a.link:visited{
+  color:green;
 }
