@@ -6,8 +6,10 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
+  position: relative;
 }
 #gallery img {
   display: block;
   width: 100%;
+  position: absolute;
 }
