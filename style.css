@@ -13,3 +13,7 @@ body {
   width: 100%;
   position: absolute;
 }
+#sidebar {
+  width: 30%;
+  color: pink;
+}
