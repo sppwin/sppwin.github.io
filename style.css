@@ -13,7 +13,7 @@ body {
   width: 100%;
   position: absolute;
 }
-#sidebar {
+div#sidebar {
   position: fixed;
   width: 80px;
   color: pink;
