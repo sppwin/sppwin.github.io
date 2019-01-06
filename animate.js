@@ -5,6 +5,6 @@ setInterval(function () {
   } else {
     frame += 1
   }
-  document.querySelector('.frame').style.display = 'none'
+  document.querySelectorAll('.frame').style.display = 'none'
   document.querySelector('.frame' + frame).style.display = 'block'
 }, 500)
