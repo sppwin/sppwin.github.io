@@ -13,14 +13,12 @@ body {
   width: 100%;
   position: absolute;
 }
-.sidebar {
+#sidebar {
   position: relative;
   width: 100px;
   float:left;
-  color:pink;
 
 }
-a.sidebar{
-  color:pink;
-  text-decoration:none;
+.link{
+  text-decoration: none;
 }
