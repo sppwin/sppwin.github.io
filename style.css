@@ -13,10 +13,14 @@ body {
   width: 100%;
   position: absolute;
 }
-div#sidebar {
-  position: fixed;
-  width: 80px;
-  color: pink;
-  text-decoration: none;
-  display: block;
+.sidebar {
+  position: relative;
+  width: 100px;
+  float:left;
+  color:pink;
+
+}
+a.sidebar{
+  color:pink;
+  text-decoration:none;
 }
