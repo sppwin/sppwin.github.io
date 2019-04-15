@@ -2,13 +2,7 @@ body {
     margin: 0;
     background-color: yellow;
 }
-#gallery {
-  max-width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
-  position: relative;
-}
+
 .frame {
   display: block;
   width: 100%;
@@ -20,6 +14,11 @@ body {
   float:left;
   background-color: pink;
 
+}
+#recipe{
+  margin-left: auto;
+	margin-right: auto;
+	width: 50em;
 }
 .link{
   font-family: 'Staatliches', cursive;
