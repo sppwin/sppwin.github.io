@@ -16,8 +16,7 @@ body {
 
 }
 #recipe{
-  margin-left: auto;
-	margin-right: auto;
+  margin: 0 auto;
 	width: 50em;
 }
 .link{
